@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, verdana, sans-serif;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: sacramento;
+  font-size: 90pt;
+  color: #66bfbf;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+}
+
+a {
+  color: #11999e;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.left-text {
+  text-align: left;
+}
+
+.right-text {
+  text-align: right;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+}
+
+.skill-row img {
+  width: 25%;
+}
+
+/* .right-desc {
+  clear: left;
+}
+
+.left-desc {
+  clear: right;
+} */
+
+.js {
+  float: left;
+  margin-right: 30px;
+}
+
+.css {
+  float: right;
+  margin-left: 30px;
+}
+
+.cloud-bottom {
+  position: absolute;
+}
+
+.cloud-top {
+  margin: 30px auto 10px 45%;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding: 20px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
